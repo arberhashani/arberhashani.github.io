@@ -3,6 +3,7 @@ description: Welcome
 author: Arber Hashani
 avatar: /logo.png
 email: arberhash@gmail.com
+location: Prishtina/Kosovo
 
 plugins:
   - jekyll-seo-tag
