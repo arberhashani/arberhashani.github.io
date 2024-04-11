@@ -1,8 +1,10 @@
 ---
-layout: home
+layout: page
 title: Docs
 permalink: /docs/
 ---
+
+{{ content }}
 
 <div class="post-list">
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
