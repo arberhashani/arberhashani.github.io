@@ -4,7 +4,7 @@ title: Docs
 permalink: /docs/
 ---
 
-{{ content }}
+
 
 <ul class="post-list">
   {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
