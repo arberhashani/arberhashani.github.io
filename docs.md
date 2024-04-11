@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: Docs
 permalink: /docs/
 ---
 
-A documentation page.
