@@ -38,10 +38,9 @@
     display: none;
   }
 }
-$font-family-title: "Inconsolata", monospace;
+
 .site-title {
   @include relative-font-size(1.625);
-  font-family: $font-family-titlefont-family;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
