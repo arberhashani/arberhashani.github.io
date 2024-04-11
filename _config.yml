@@ -1,8 +1,8 @@
 title: ARBER HASHANI
 description: Welcome
-author: Shangzhi Huang
+author: Arber Hashani
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: arberhash@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -11,6 +11,8 @@ plugins:
   - jekyll-paginate
 
 paginate: 10
+
+skin: sunrise
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
