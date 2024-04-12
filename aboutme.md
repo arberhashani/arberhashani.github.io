@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /aboutme/
 ---
 
 Another minimal style of Jekyll theme for writers.
