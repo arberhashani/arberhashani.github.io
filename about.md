@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: About
 permalink: /about/
 ---
 
-An FAQ page.
+Another minimal style of Jekyll theme for writers.
