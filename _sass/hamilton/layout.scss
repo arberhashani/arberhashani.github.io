@@ -40,7 +40,7 @@
 }
 
 .site-title {
-  @include relative-font-size(0.875);
+  @include relative-font-size(1.4);
   font-family: $headline-font-family;
   letter-spacing: -1px;
   margin-bottom: 0;
