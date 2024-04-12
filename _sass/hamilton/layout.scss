@@ -211,7 +211,8 @@
   /* Show sidebar on tablets and smaller devices */
   @include media-query($on-small) {
     display: flex;
-    flex-direction: row; 
+    flex-direction: row;
+    justify-content: center; 
     border-right: none;
     border-bottom: 1px solid;
   }
@@ -219,7 +220,8 @@
   /* Show sidebar by default on smaller devices */
   @media screen and (max-width: $on-small) {
     display: flex;
-    flex-direction: row; 
+    flex-direction: row;
+    justify-content: center; 
   }
 }
 
