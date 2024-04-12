@@ -208,7 +208,7 @@
 
   /* Show sidebar on tablets and smaller devices */
   @include media-query($on-small) {
-    display: block;
+    display: flex;
     border-right: none;
     border-bottom: 1px solid;
   }
