@@ -1,5 +1,5 @@
-$text-color:            lightgrey !default;
-$text-color-light:      silver !default;
+$text-color:            white !default;
+$text-color-light:      white !default;
 $background-color:      #0d042a !default;
 $code-background-color: #262020 !default;
 
@@ -26,23 +26,23 @@ $subscribe-color:       tomato !default;
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight .c, .highlight .ch, .highlight .cd, .highlight .cpf {
-  color: #75715e;
+  color: white;
   font-style: italic;
 }
 .highlight .cm {
-  color: #75715e;
+  color: white;
   font-style: italic;
 }
 .highlight .c1 {
-  color: #75715e;
+  color: white;
   font-style: italic;
 }
 .highlight .cp {
-  color: #75715e;
+  color: white;
   font-weight: bold;
 }
 .highlight .cs {
-  color: #75715e;
+  color: white;
   font-weight: bold;
   font-style: italic;
 }
@@ -51,11 +51,11 @@ $subscribe-color:       tomato !default;
   background-color: #1e0010;
 }
 .highlight .gi {
-  color: #ffffff;
+  color: white;
   background-color: #324932;
 }
 .highlight .gd {
-  color: #ffffff;
+  color: white;
   background-color: #493131;
 }
 .highlight .ge {
@@ -230,6 +230,6 @@ $subscribe-color:       tomato !default;
   color: #f92672;
 }
 .highlight {
-  color: #f8f8f2;
+  color: white;
   background-color: #0d042a;
 }
