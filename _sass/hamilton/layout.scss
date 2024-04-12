@@ -199,7 +199,7 @@
 .site-sidebar {
   padding: $spacing-unit;
   border-right: 1px solid;
-  @include relative-font-size(1);
+  @include relative-font-size(0.85);
 
   @include media-query($on-medium) {
     display: block;
