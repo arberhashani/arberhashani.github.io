@@ -215,7 +215,7 @@
 
   /* Show sidebar by default on smaller devices */
   @media screen and (max-width: $on-small) {
-    display: inline-flex;
+    display: block;
   }
 }
 
