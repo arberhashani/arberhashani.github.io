@@ -6,4 +6,4 @@ permalink: /aboutme/
 
 Greetings Everyone. 
 
-Unfortunately this is page is in a testing phase.
+Unfortunately, this page is in a testing phase still.
