@@ -203,6 +203,6 @@ ul.task-list {
   }
 
   @media screen and (max-width: #{$on-small}) {
-    margin-left: 0; /* Reset margin-left to 0 for small screens (tablets and mobiles) */
+    margin-left: auto; /* Reset margin-left to 0 for small screens (tablets and mobiles) */
   }
 }
