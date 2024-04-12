@@ -202,6 +202,8 @@
   @include relative-font-size(0.8);
 
   @include media-query($on-medium) {
+    display: flex;
+    flex-direction: row; 
     padding: $spacing-unit / 2;
     @include relative-font-size(0.6);
   }
@@ -209,13 +211,15 @@
   /* Show sidebar on tablets and smaller devices */
   @include media-query($on-small) {
     display: flex;
+    flex-direction: row; 
     border-right: none;
     border-bottom: 1px solid;
   }
 
   /* Show sidebar by default on smaller devices */
   @media screen and (max-width: $on-small) {
-    display: block;
+    display: flex;
+    flex-direction: row; 
   }
 }
 
