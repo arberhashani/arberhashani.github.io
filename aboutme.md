@@ -4,4 +4,6 @@ title: About Me
 permalink: /aboutme/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Greetings Everyone. 
+
+Unfortunately this is page is in a testing phase.
