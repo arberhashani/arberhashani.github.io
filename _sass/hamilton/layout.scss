@@ -200,6 +200,7 @@
   padding: $spacing-unit;
   border-right: 1px solid;
   @include relative-font-size(0.8);
+  margin-left: -10px; /* Adjust as needed */
 
   @include media-query($on-medium) {
     padding: $spacing-unit / 2;
@@ -500,7 +501,6 @@ ul.post-categories {
     padding: 0;
   }
 }
-
 
 // About font sizes for h1-h6, refer to https://stackoverflow.com/a/6140504/13261366
 .post-title,
