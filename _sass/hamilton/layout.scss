@@ -3,7 +3,7 @@
  */
  .site-container {
   height: 100vh;
-  width: 70vw;
+  width: 100vw;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: $base-font-size * 3 + 6px 1fr;
@@ -181,11 +181,11 @@
  */
 .site-body {
   display: grid;
-  grid-template-columns: calc(#{$content-width} * 0.20) 1fr;
+  grid-template-columns: calc(#{$content-width} * 0.25) 1fr;
   overflow: hidden;
 
   @include media-query($on-medium) {
-    grid-template-columns: calc(#{$content-width} * 0.14) 1fr;
+    grid-template-columns: calc(#{$content-width} * 0.18) 1fr;
   }
 
   @include media-query($on-small) {
