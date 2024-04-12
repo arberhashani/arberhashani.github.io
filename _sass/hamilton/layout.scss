@@ -204,7 +204,7 @@
   @include media-query($on-medium) {
     display: block;
     padding: $spacing-unit / 2;
-    @include relative-font-size(1);
+    @include relative-font-size(0.85);
   }
 
   /* Show sidebar on tablets and smaller devices */
