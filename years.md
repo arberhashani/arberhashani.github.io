@@ -1,5 +1,5 @@
 ---
-layout: archive-years
+layout: page
 title: Years
 permalink: /years/
 ---
